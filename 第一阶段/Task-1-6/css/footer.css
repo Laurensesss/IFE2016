@@ -1,0 +1,15 @@
+footer{
+	margin: 0 auto;
+	width: 892px;
+	border-top: 1px solid #938e8c;
+	position: relative;
+}
+
+footer>span{
+	font-size: 12px;
+	font-family: 黑体;
+	color: #d45d5c;
+	position: absolute;
+	top: 2px;
+	right: 0px;
+}

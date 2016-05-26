@@ -1,0 +1,106 @@
+.topSection{
+	margin: 0 auto;
+	width: 892px;
+}
+
+.topSection>.topLeftImage{
+	display: inline-block;
+	position: relative;
+	background: url(../resources/1.jpg);
+	width: 641px;
+	height: 301px;
+}
+
+.topSection>.topLeftImage>.greenSquare{
+	height: 301px;
+	width: 191px;
+	background-color: rgba(123,238,58,0.5);
+	display: inline-block;
+}
+
+.topSection>.topLeftImage>.redSquare{
+	position: absolute;
+	top: 0;
+	right: 0;
+	height: 301px;
+	width: 191px;
+	background-color: rgba(223,112,60,0.5);
+}
+
+.topSection>.topRightText{
+	position: relative;
+	display: inline-block;
+	float: right;
+	width: 203px;
+	height: 301px;
+	border-top: 2px solid #cc8091;
+}
+
+.topSection>.topRightText>.title{
+	line-height: 40px;
+	font-size: 24px;
+}
+
+.topSection>.topRightText>.title .titleUnderline{
+	border-bottom: 2px solid #000;
+}
+
+.topSection>.topRightText>.title .headingLetter{
+	color: red;
+	font-size: 28px;
+}
+
+.topSection>.topRightText>.title>.detailText{
+	font-size: 12px;
+	color: #676767;
+/*	font-family: 楷体;*/
+	line-height: 10px;
+}
+
+.topSection>.topRightText>.largeNumber700{
+	font-size: 116px;
+	font-style: italic;
+	color: #75b86b;
+	margin-top: 20px;
+}
+
+.topSection>.topRightText>.cssBottom{
+	position: absolute;
+	bottom: 0;
+}
+
+.topSection>.topRightText>.cssBottom>div{
+	display: inline-block;
+}
+
+.topSection>.topRightText>.cssBottom>.largeNumber3_2{
+	font-size: 55px;
+	color: #cc8091;
+}
+
+.topSection>.topRightText>.cssBottom .CSS{
+	font-size: 21px;
+	color: #cc8091;
+}
+
+.topSection>.topRightText>.cssBottom .manycss{
+	font-size: 12px;
+	color: #cc8091;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

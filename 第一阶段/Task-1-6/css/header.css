@@ -1,0 +1,35 @@
+header{
+	position: relative;
+	margin: 0 auto;
+	width: 892px;
+	border-bottom: 2px solid #938e8c;
+	
+	margin-bottom: 20px;
+}
+
+header>div{
+/*	display: inline-block;*/
+	position: relative;
+	width: 100px;
+	height: 61px;
+	background-color: rgb(212,94,92);
+	
+	font-size: 12px;
+/*	font-family: 黑体;*/
+	color: #fff;
+}
+
+header>div>span{
+	position: absolute;
+	bottom: 0;
+	left: 5px;
+}
+
+header>span{
+	position: absolute;
+	bottom: 5px;
+	right: 0;
+	font-size: 12px;
+/*	font-family: 黑体;*/
+	color: #d45d5c;
+}
