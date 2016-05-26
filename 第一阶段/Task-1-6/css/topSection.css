@@ -46,7 +46,6 @@
 }
 
 .topSection>.topRightText>.title .headingLetter{
-	color: red;
 	font-size: 28px;
 }
 
@@ -88,16 +87,51 @@
 	color: #cc8091;
 }
 
+.topSection>.topSectionText{
+	position: relative;
+}
 
+.topSection>.topSectionText article{
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	font-size: 12px;
+	color: #767777;
+	font-family: serif;
+	margin-right: 16px;
+	line-height: 16px;
+}
 
+.topSection>.topSectionText .What{
+	font-size: 16px;
+	font-weight: bold;
+	color: #418c59;
+	text-decoration: underline;
+}
 
+.topSection>.topSectionText .When{
+	font-size: 16px;
+	font-weight: bold;
+	color: #d2994f;
+	text-decoration: underline;
+}
 
+.topSection>.topSectionText .How{
+	font-size: 16px;
+	font-weight: bold;
+	color: #cc7680;
+	text-decoration: underline;
+}
 
+.topSection>.topSectionText .HowBottom{
+	position: absolute;
+	bottom: 5px;
+}
 
-
-
-
-
+.topSection>.topSectionText .HowBottom .percent{
+	color: #cd4a48;
+	font-style: italic;
+}
 
 
 
