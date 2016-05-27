@@ -3,6 +3,7 @@ footer{
 	width: 892px;
 	border-top: 1px solid #938e8c;
 	position: relative;
+  clear: both;
 }
 
 footer>span{

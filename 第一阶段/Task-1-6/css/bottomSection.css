@@ -1,0 +1,200 @@
+.bottomSection{
+  width: 892px;
+  margin: 0 auto;
+}
+
+.bottomSection>.bottomLeft{
+  width: 415px;
+  display: inline-block;
+  float: left;
+  margin-bottom: 40px;
+}
+
+.bottomSection>.bottomLeft>.bottomLeftTop{
+ border-bottom: 2px solid #000; 
+  margin-bottom: 20px;
+  font-weight: bold;
+/*  font-family: HEITI;*/
+/*  line-height: 58px;*/
+}
+
+.bottomSection>.bottomLeft>.bottomLeftTop>.title{
+  font-size: 38px;
+  color: #11456b;
+}
+
+.bottomSection>.bottomLeft>.bottomLeftTop .THE{
+  font-size: 68px;
+  color: #f5e327;
+  font-style: italic;
+}
+
+.bottomSection>.bottomLeft>.bottomLeftTop>.subTitle{
+  font-size: 33px;
+  color: #11456b;
+}
+
+.bottomSection>.bottomLeft>.bottomLeftBottom .article{
+  text-indent: 2em;
+  
+}
+
+.bottomSection>.bottomLeft>.bottomLeftBottom .bottomLeftImage{
+  width: 180px;
+  height: 300px;
+  float: right;
+  margin: 1em 0 1em 1em;
+}
+
+.bottomSection>.bottomLeft>.bottomLeftBottom p{
+  line-height: 20px;
+  color: #767777;
+}
+
+.bottomSection>.bottomLeft>.bottomLeftBottom .QIAN{
+  font-size: 70px;
+  display: inline-block;
+  float: left;
+  color: #f5e327;
+}
+
+
+
+/*下右*/
+
+.bottomSection>.bottomRight{
+  display: inline-block;
+  float: right;
+}
+
+.bottomSection>.bottomRight>.bottomRightTop{
+  background: url(../resources/1.jpg);
+  width: 458px;
+  height: 275px;
+  position: relative;
+  margin-bottom: 45px;
+}
+
+.bottomSection>.bottomRight>.bottomRightTop>.crossband{
+  width: 458px;
+  height: 61px;
+  background-color: rgba(0,0,0,0.5);
+  position: absolute;
+  bottom: 0;
+}
+
+.bottomSection>.bottomRight>.bottomRightTop>.crossband>.imageText{
+  height: 44px;
+  border-left: 3px solid #72b16a;
+  margin-top: 8px;
+  font-size: 26px;
+  color: #fff;
+  margin-left: 30px;
+}
+
+.bottomSection>.bottomRight>.bottomRightTop>.crossband>.imageText>.p{
+  display: inline-block;
+  margin-top: 8px;
+  padding: 0 10px;
+}
+
+.bottomSection>.bottomRight>.bottomRightTop>.crossband>.imageText>.text{
+  font-size: 12px;
+  font-style: italic;
+  word-spacing: 140%;
+  color: #72b16a;
+}
+
+
+.bottomSection>.bottomRight>.bottomRightBottom{
+  background-color: rgb(238,238,214);
+  width: 459px;
+  height: 298px;
+  padding-top: 20px;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.topList{
+  line-height: 37px;
+  margin: 0px 20px 0px 20px;
+  text-align: right;
+  padding: 10px;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.topList .italic{
+  font-style: italic;
+  color: #5a5b5b;
+  font-size: 12px;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.redSquare{
+  width: 260px;
+  height: 160px;
+  background-color: rgb(212,94,92);
+  position: relative;
+  display: inline-block;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.redSquare>.middle>.bigZero{
+  display: inline-block;
+  height: 86px;
+  border-right: 2px solid #fff;
+  font-size: 105px;
+  color: #fff;
+  padding: 0 10px;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.redSquare>.middle{
+  position: absolute;
+  top: 35px;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.redSquare>.middle>.onetwo{
+  display: inline-block;
+  line-height: 30px;
+  font-size: 21px;
+  color: #fff;
+  font-style: italic;
+  vertical-align: top;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.redSquare>.middle>.helloWorld{
+  font-size: 12px;
+  color: #fff;
+  display: inline-block;
+  position: absolute;
+  left: 90px;
+  bottom: 10px;
+  letter-spacing: 1px;
+}
+
+
+.bottomSection>.bottomRight>.bottomRightBottom>.colon{
+  width: 190px;
+  font-style: italic;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 24px;
+  color: #5a5b5b;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.colon>.largeColon{
+  color: red;
+  display: inline-block;
+  font-size: 30px;
+}
+
+.bottomSection>.bottomRight>.bottomRightBottom>.colon>.rightColon{
+  float: right;
+}
+
+
+
+
+
+
+
+
+
+

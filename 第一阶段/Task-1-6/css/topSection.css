@@ -3,12 +3,17 @@
 	width: 892px;
 }
 
+.topSection{
+	margin-bottom: 80px;
+}
+
 .topSection>.topLeftImage{
 	display: inline-block;
 	position: relative;
 	background: url(../resources/1.jpg);
 	width: 641px;
 	height: 301px;
+  margin-bottom: 20px;
 }
 
 .topSection>.topLeftImage>.greenSquare{
